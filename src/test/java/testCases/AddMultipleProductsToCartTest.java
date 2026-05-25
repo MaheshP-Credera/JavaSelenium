@@ -28,7 +28,7 @@ UIActions actions;
         logger.info("First product Added to cart");
         TestListener.test.get().info("First product Added to cart");
         pp.addToCartSecondProduct();
-        logger.info("Second product Added to cart");
+        logger.info("Second product  Added to cart");
         TestListener.test.get().info("Second product Added to cart");
         pp.addToCartThirdProduct();
         logger.info("Third product Added to cart");
